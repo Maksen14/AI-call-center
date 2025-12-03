@@ -1,0 +1,380 @@
+{
+  "places": {
+    "test": {
+      "key": "test",
+      "name": "Lou",
+      "phoneNumber": "+330769248436",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "bistrot de l'imprevu|": {
+      "key": "bistrot de l'imprevu|",
+      "name": "Bistrot de l'imprevu",
+      "phoneNumber": "03 44 20 27 25",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "bistrot du château|": {
+      "key": "bistrot du château|",
+      "name": "Bistrot du château",
+      "phoneNumber": "03 44 40 13 13",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "holy sister|": {
+      "key": "holy sister|",
+      "name": "Holy sister",
+      "phoneNumber": "09 87 15 39 52",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le bouchon|": {
+      "key": "le bouchon|",
+      "name": "Le Bouchon",
+      "phoneNumber": "03 44 20 02 03",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le cordelier|": {
+      "key": "le cordelier|",
+      "name": "Le Cordelier",
+      "phoneNumber": "03 44 83 90 25",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le repère|": {
+      "key": "le repère|",
+      "name": "Le Repère",
+      "phoneNumber": "03 44 85 68 20",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "chez elles restaurant \"comme à la maison\"|https://www.facebook.com/chezellescompiegne/?modal=admin_todo_tour": {
+      "key": "chez elles restaurant \"comme à la maison\"|https://www.facebook.com/chezellescompiegne/?modal=admin_todo_tour",
+      "name": "Chez Elles restaurant \"comme à la maison\"",
+      "phoneNumber": "03 44 38 04 89",
+      "websiteUri": "https://www.facebook.com/chezellescompiegne/?modal=admin_todo_tour",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "chez poupette|https://www.instagram.com/chezpoupette.compiegne/": {
+      "key": "chez poupette|https://www.instagram.com/chezpoupette.compiegne/",
+      "name": "Chez PouPette",
+      "phoneNumber": null,
+      "websiteUri": "https://www.instagram.com/chezpoupette.compiegne/",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "l'entre-mets|https://www.facebook.com/profile.php?id=100059758876120": {
+      "key": "l'entre-mets|https://www.facebook.com/profile.php?id=100059758876120",
+      "name": "L'Entre-Mets",
+      "phoneNumber": "09 87 32 64 39",
+      "websiteUri": "https://www.facebook.com/profile.php?id=100059758876120",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "la table gourmande|https://www.facebook.com/latablegourmande60/?ref=bookmarks": {
+      "key": "la table gourmande|https://www.facebook.com/latablegourmande60/?ref=bookmarks",
+      "name": "La table gourmande",
+      "phoneNumber": "03 44 37 08 28",
+      "websiteUri": "https://www.facebook.com/LaTableGourmande60/?ref=bookmarks",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "la famille - restaurant et brocante|https://www.instagram.com/lafamille.compiegne?igsh=mw52d3bzbwwznjkwzw==": {
+      "key": "la famille - restaurant et brocante|https://www.instagram.com/lafamille.compiegne?igsh=mw52d3bzbwwznjkwzw==",
+      "name": "La famille - Restaurant et Brocante",
+      "phoneNumber": "07 69 18 35 73",
+      "websiteUri": "https://www.instagram.com/lafamille.compiegne?igsh=MW52d3BzbWwzNjkwZw==",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "restaurant l'endroit|": {
+      "key": "restaurant l'endroit|",
+      "name": "Restaurant L'endroit",
+      "phoneNumber": "03 44 40 83 38",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "restaurant aurassi|": {
+      "key": "restaurant aurassi|",
+      "name": "Restaurant Aurassi",
+      "phoneNumber": "03 44 86 21 23",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le rethonde|": {
+      "key": "le rethonde|",
+      "name": "Le Rethonde",
+      "phoneNumber": "03 44 40 10 25",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le gourmet|": {
+      "key": "le gourmet|",
+      "name": "LE GOURMET",
+      "phoneNumber": "03 44 85 96 74",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le d'tour|": {
+      "key": "le d'tour|",
+      "name": "LE D'TOUR",
+      "phoneNumber": "03 44 20 71 35",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le créatonome|": {
+      "key": "le créatonome|",
+      "name": "Le Créatonome",
+      "phoneNumber": "06 88 07 35 34",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le coq d'or|": {
+      "key": "le coq d'or|",
+      "name": "Le Coq d'Or",
+      "phoneNumber": "03 44 40 14 48",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "la main de fatma|": {
+      "key": "la main de fatma|",
+      "name": "La Main De Fatma",
+      "phoneNumber": "03 75 46 27 22",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "la fontaine compiègne|": {
+      "key": "la fontaine compiègne|",
+      "name": "La Fontaine Compiègne",
+      "phoneNumber": "09 81 45 04 36",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "la cantina... e dopo|": {
+      "key": "la cantina... e dopo|",
+      "name": "La Cantina... E dopo",
+      "phoneNumber": "03 60 19 31 96",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "la calabraise|": {
+      "key": "la calabraise|",
+      "name": "La Calabraise",
+      "phoneNumber": "03 44 20 10 08",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "la cuisine de dina|": {
+      "key": "la cuisine de dina|",
+      "name": "La cuisine de DINA",
+      "phoneNumber": "09 54 61 73 70",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "gertrude|": {
+      "key": "gertrude|",
+      "name": "Gertrude",
+      "phoneNumber": "03 44 83 53 94",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "combo kitchen|": {
+      "key": "combo kitchen|",
+      "name": "COMBO KITCHEN",
+      "phoneNumber": "03 44 40 65 51",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "o'delys|http://www.instagram.com/o_delys_/": {
+      "key": "o'delys|http://www.instagram.com/o_delys_/",
+      "name": "O'delys",
+      "phoneNumber": "03 44 95 94 20",
+      "websiteUri": "http://www.instagram.com/o_delys_/",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "peppole|https://www.facebook.com/peppole-103761961546320/": {
+      "key": "peppole|https://www.facebook.com/peppole-103761961546320/",
+      "name": "Peppole",
+      "phoneNumber": "03 44 42 40 85",
+      "websiteUri": "https://www.facebook.com/Peppole-103761961546320/",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "restaurant l’atelier du 14|https://www.latelierdu14.fr/": {
+      "key": "restaurant l’atelier du 14|https://www.latelierdu14.fr/",
+      "name": "Restaurant L’ATELIER du 14",
+      "phoneNumber": "03 44 40 83 38",
+      "websiteUri": "https://www.latelierdu14.fr/",
+      "websiteCategory": "real",
+      "callStatus": "Not called"
+    },
+    "les ferlempins|http://www.lesferlempins.fr/": {
+      "key": "les ferlempins|http://www.lesferlempins.fr/",
+      "name": "Les Ferlempins",
+      "phoneNumber": "03 44 83 53 31",
+      "websiteUri": "http://www.lesferlempins.fr/",
+      "websiteCategory": "real",
+      "callStatus": "Not called"
+    },
+    "le vestiaire|http://le-vestiaire-compiegne.gaqo.net/": {
+      "key": "le vestiaire|http://le-vestiaire-compiegne.gaqo.net/",
+      "name": "Le Vestiaire",
+      "phoneNumber": "03 44 20 69 81",
+      "websiteUri": "http://le-vestiaire-compiegne.gaqo.net/",
+      "websiteCategory": "real",
+      "callStatus": "Not called"
+    },
+    "concepto latino|http://concepto-latino.eatbu.com/": {
+      "key": "concepto latino|http://concepto-latino.eatbu.com/",
+      "name": "Concepto Latino",
+      "phoneNumber": "03 44 42 04 58",
+      "websiteUri": "http://concepto-latino.eatbu.com/",
+      "websiteCategory": "real",
+      "callStatus": "Not called"
+    },
+    "bistrot du terroir|https://www.bistrotduterroircompiegne.fr/": {
+      "key": "bistrot du terroir|https://www.bistrotduterroircompiegne.fr/",
+      "name": "Bistrot du Terroir",
+      "phoneNumber": "03 44 40 06 36",
+      "websiteUri": "https://www.bistrotduterroircompiegne.fr/",
+      "websiteCategory": "real",
+      "callStatus": "Not called"
+    },
+    "le pigeonnier|": {
+      "key": "le pigeonnier|",
+      "name": "Le Pigeonnier",
+      "phoneNumber": "03 44 20 74 89",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "why not|": {
+      "key": "why not|",
+      "name": "WHY NOT",
+      "phoneNumber": "09 51 45 66 17",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le margny|": {
+      "key": "le margny|",
+      "name": "Le Margny",
+      "phoneNumber": "03 44 83 21 31",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "chicken club compiègne|": {
+      "key": "chicken club compiègne|",
+      "name": "Chicken Club Compiègne",
+      "phoneNumber": "03 10 45 05 05",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "red bear n’ burger ᙅᖾᥲຕρɩoᥒ ᑯᥱ ᖴɾᥲᥒᥴᥱ ᑯᥙ ᑲᥙɾɠᥱɾ ®|https://red-bear-burger.eatbu.com/": {
+      "key": "red bear n’ burger ᙅᖾᥲຕρɩoᥒ ᑯᥱ ᖴɾᥲᥒᥴᥱ ᑯᥙ ᑲᥙɾɠᥱɾ ®|https://red-bear-burger.eatbu.com/",
+      "name": "RED BEAR N’ BURGER ᙅᖾᥲຕρɩoᥒ ᑯᥱ ᖴɾᥲᥒᥴᥱ ᑯᥙ ᑲᥙɾɠᥱɾ ®",
+      "phoneNumber": null,
+      "websiteUri": "https://red-bear-burger.eatbu.com/",
+      "websiteCategory": "real",
+      "callStatus": "Not called"
+    },
+    "o'troquet|https://otroquet-compiegne.eatbu.com/?lang=fr": {
+      "key": "o'troquet|https://otroquet-compiegne.eatbu.com/?lang=fr",
+      "name": "O'Troquet",
+      "phoneNumber": "03 44 97 18 90",
+      "websiteUri": "https://otroquet-compiegne.eatbu.com/?lang=fr",
+      "websiteCategory": "real",
+      "callStatus": "Not called"
+    },
+    "star pizza|": {
+      "key": "star pizza|",
+      "name": "Star pizza",
+      "phoneNumber": "03 44 86 68 68",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "new chicken house|": {
+      "key": "new chicken house|",
+      "name": "New Chicken House",
+      "phoneNumber": "09 53 82 36 45",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le jardin de jasmine|": {
+      "key": "le jardin de jasmine|",
+      "name": "Le jardin de jasmine",
+      "phoneNumber": "06 71 63 68 36",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "terre et mer|": {
+      "key": "terre et mer|",
+      "name": "Terre Et Mer",
+      "phoneNumber": "03 44 37 08 08",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "le fournil de venette|https://www.facebook.com/share/1b5kulxvg4/": {
+      "key": "le fournil de venette|https://www.facebook.com/share/1b5kulxvg4/",
+      "name": "Le Fournil de Venette",
+      "phoneNumber": "03 44 83 28 08",
+      "websiteUri": "https://www.facebook.com/share/1B5kuLXVg4/",
+      "websiteCategory": "social",
+      "callStatus": "Not called"
+    },
+    "le vézuvio|": {
+      "key": "le vézuvio|",
+      "name": "Le Vézuvio",
+      "phoneNumber": "03 44 23 31 33",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "gourmets d'asie|": {
+      "key": "gourmets d'asie|",
+      "name": "Gourmets d'Asie",
+      "phoneNumber": "06 59 71 78 25",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    },
+    "cafe de la place|": {
+      "key": "cafe de la place|",
+      "name": "Cafe de la place",
+      "phoneNumber": "03 44 83 29 90",
+      "websiteUri": null,
+      "websiteCategory": "none",
+      "callStatus": "Not called"
+    }
+  }
+}

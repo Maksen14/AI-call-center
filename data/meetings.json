@@ -1,0 +1,74 @@
+{
+  "meetings": [
+    {
+      "id": "0e7c45a1-0a7b-4e9a-94ea-87d8a7208e54",
+      "title": "Meeting",
+      "leadId": "test",
+      "scheduledAt": "2025-11-26T13:00:00.000Z",
+      "endAt": "2025-11-25T13:30:00.000Z",
+      "channel": "video",
+      "createdAt": "2025-11-25T10:08:17.302Z",
+      "source": "manual"
+    },
+    {
+      "id": "7f23772c-661d-4977-97e1-6bbb1a894e43",
+      "title": "Test",
+      "leadId": "test",
+      "scheduledAt": "2025-11-25T11:08:00.000Z",
+      "endAt": "2025-11-25T11:55:00.000Z",
+      "channel": "phone",
+      "createdAt": "2025-11-25T10:09:16.665Z",
+      "source": "manual"
+    },
+    {
+      "id": "e3dd5390-928e-4f58-9da7-0b68f49b61bd",
+      "title": "tests",
+      "leadId": "test",
+      "scheduledAt": "2025-11-27T17:00:00.000Z",
+      "endAt": "2025-11-27T17:30:00.000Z",
+      "channel": "phone",
+      "createdAt": "2025-11-27T09:51:38.616Z",
+      "source": "manual"
+    },
+    {
+      "id": "bafb083b-92f8-4cd9-b51f-04ce49074efb",
+      "title": "t",
+      "leadId": null,
+      "scheduledAt": "2025-11-28T08:30:00.000Z",
+      "endAt": null,
+      "channel": "phone",
+      "createdAt": "2025-11-27T10:01:09.232Z",
+      "source": "manual"
+    },
+    {
+      "id": "89a39263-d181-4145-9bb0-12cc86e25ace",
+      "title": "t+",
+      "leadId": null,
+      "scheduledAt": "2025-11-29T08:30:00.000Z",
+      "endAt": null,
+      "channel": "phone",
+      "createdAt": "2025-11-27T10:01:25.640Z",
+      "source": "manual"
+    },
+    {
+      "id": "201f054f-d2c1-4588-bed9-b3806bb5041d",
+      "title": "yug",
+      "leadId": null,
+      "scheduledAt": "2025-11-30T10:30:00.000Z",
+      "endAt": null,
+      "channel": "phone",
+      "createdAt": "2025-11-27T10:01:45.694Z",
+      "source": "manual"
+    },
+    {
+      "id": "a242686a-3267-4f72-90e4-a85fad8a8f45",
+      "title": "Meeting with Bistrot du château",
+      "leadId": "bistrot du château|",
+      "scheduledAt": "2025-11-26T13:30:00.000Z",
+      "endAt": null,
+      "channel": "phone",
+      "createdAt": "2025-11-27T10:02:41.649Z",
+      "source": "manual"
+    }
+  ]
+}
