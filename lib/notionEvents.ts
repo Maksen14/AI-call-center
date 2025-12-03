@@ -49,13 +49,16 @@ function extractTitle(
   propertyName: string,
 ): string {
   const prop = properties[propertyName];
-  const titleProp =
+  const titlePropCandidate =
     prop && prop.type === "title"
       ? prop
       : (Object.values(properties).find((candidate) => candidate?.type === "title") as
           | PageObjectResponse["properties"][string]
           | undefined);
-  if (!titleProp) return "Untitled event";
+  if (!titlePropCandidate || titlePropCandidate.type !== "title") {
+    return "Untitled event";
+  }
+  const titleProp = titlePropCandidate;
   const text =
     titleProp.title
       ?.map((fragment) => fragment.plain_text)
@@ -70,15 +73,16 @@ function extractDate(
   propertyName: string,
 ): { start: string | null; end: string | null } {
   const prop = properties[propertyName];
-  const dateProp =
+  const datePropCandidate =
     prop && prop.type === "date"
       ? prop
       : (Object.values(properties).find((candidate) => candidate?.type === "date") as
           | PageObjectResponse["properties"][string]
           | undefined);
-  if (!dateProp) {
+  if (!datePropCandidate || datePropCandidate.type !== "date") {
     return { start: null, end: null };
   }
+  const dateProp = datePropCandidate;
   return {
     start: dateProp.date?.start ?? null,
     end: dateProp.date?.end ?? null,
@@ -89,20 +93,18 @@ function extractLocation(
   properties: PageObjectResponse["properties"],
   propertyName: string,
 ): string | null {
-  const locationProp = properties[propertyName] ?? properties.Location ?? properties.location;
-  if (!locationProp) return null;
-
-  if (locationProp.type === "rich_text") {
-    const text =
-      locationProp.rich_text
-        ?.map((fragment) => fragment.plain_text)
-        .filter(Boolean)
-        .join(" ")
-        .trim() ?? "";
-    return text || null;
+  const candidate = properties[propertyName] ?? properties.Location ?? properties.location;
+  if (!candidate || candidate.type !== "rich_text") {
+    return null;
   }
 
-  return null;
+  const text =
+    candidate.rich_text
+      ?.map((fragment) => fragment.plain_text)
+      .filter(Boolean)
+      .join(" ")
+      .trim() ?? "";
+  return text || null;
 }
 
 export async function fetchNotionEvents(
