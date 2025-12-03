@@ -191,10 +191,11 @@ export default function HomePage() {
         next.add(placeKey);
         return next;
       });
-      if (data?.place) {
+      const returnedPlace = data.place;
+      if (returnedPlace) {
         setSavedStatuses((prev) => ({
           ...prev,
-          [data.place.key]: data.place.callStatus ?? DEFAULT_CALL_STATUS,
+          [returnedPlace.key]: returnedPlace.callStatus ?? DEFAULT_CALL_STATUS,
         }));
       } else {
         setSavedStatuses((prev) => ({
